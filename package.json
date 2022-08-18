@@ -1,0 +1,15 @@
+{
+  "name": "midi-parser-dynamic-octaves",
+  "version": "1.0.0",
+  "description": "a simple parser to translate note strings (e.g. 'C-1#') into midi numbers. Depending on setting the lowest octave for the midi range.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "midi",
+    "octave"
+  ],
+  "author": "Philip Steimel",
+  "license": "MIT"
+}
