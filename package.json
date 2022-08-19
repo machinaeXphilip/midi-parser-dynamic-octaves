@@ -11,5 +11,6 @@
     "octave"
   ],
   "author": "Philip Steimel",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage":"https://github.com/machinaeXphilip/midi-parser-dynamic-octaves"
 }
